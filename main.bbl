@@ -1,0 +1,275 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{britannica}{online}{}
+      \name{author}{1}{}{%
+        {{hash=39b78a5b19471d68f0def97f0c508fac}{%
+           family={Berg},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{39b78a5b19471d68f0def97f0c508fac}
+      \strng{fullhash}{39b78a5b19471d68f0def97f0c508fac}
+      \strng{bibnamehash}{39b78a5b19471d68f0def97f0c508fac}
+      \strng{authorbibnamehash}{39b78a5b19471d68f0def97f0c508fac}
+      \strng{authornamehash}{39b78a5b19471d68f0def97f0c508fac}
+      \strng{authorfullhash}{39b78a5b19471d68f0def97f0c508fac}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Infrasonics}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.britannica.com/science/infrasonics
+      \endverb
+      \verb{url}
+      \verb https://www.britannica.com/science/infrasonics
+      \endverb
+    \endentry
+    \entry{weather}{online}{}
+      \name{author}{1}{}{%
+        {{hash=66da0caf7ec243b504db018a331374fc}{%
+           family={Technology},
+           familyi={T\bibinitperiod},
+           given={Delft\bibnamedelima University},
+           giveni={D\bibinitperiod\bibinitdelim U\bibinitperiod},
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{66da0caf7ec243b504db018a331374fc}
+      \strng{fullhash}{66da0caf7ec243b504db018a331374fc}
+      \strng{bibnamehash}{66da0caf7ec243b504db018a331374fc}
+      \strng{authorbibnamehash}{66da0caf7ec243b504db018a331374fc}
+      \strng{authornamehash}{66da0caf7ec243b504db018a331374fc}
+      \strng{authorfullhash}{66da0caf7ec243b504db018a331374fc}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Inaudible infrasound also useful for weather and climate forecasts}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://phys.org/news/2018-03-inaudible-infrasound-weather-climate.html
+      \endverb
+      \verb{url}
+      \verb https://phys.org/news/2018-03-inaudible-infrasound-weather-climate.html
+      \endverb
+    \endentry
+    \entry{tornado}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ad064f940af5b58eb067b9152f68fa2e}{%
+           family={Anrei},
+           familyi={A\bibinitperiod},
+           given={Mihai},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ad064f940af5b58eb067b9152f68fa2e}
+      \strng{fullhash}{ad064f940af5b58eb067b9152f68fa2e}
+      \strng{bibnamehash}{ad064f940af5b58eb067b9152f68fa2e}
+      \strng{authorbibnamehash}{ad064f940af5b58eb067b9152f68fa2e}
+      \strng{authornamehash}{ad064f940af5b58eb067b9152f68fa2e}
+      \strng{authorfullhash}{ad064f940af5b58eb067b9152f68fa2e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Scientists analyze tornadoes in infrasound}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.zmescience.com/science/news-science/tornado-infrasound-06052018/
+      \endverb
+      \verb{url}
+      \verb https://www.zmescience.com/science/news-science/tornado-infrasound-06052018/
+      \endverb
+    \endentry
+    \entry{tornado2}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1d9ab3ed52b71e96787b6a36c8881194}{%
+           family={AcousticalSocietyofAmerica},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d9ab3ed52b71e96787b6a36c8881194}
+      \strng{fullhash}{1d9ab3ed52b71e96787b6a36c8881194}
+      \strng{bibnamehash}{1d9ab3ed52b71e96787b6a36c8881194}
+      \strng{authorbibnamehash}{1d9ab3ed52b71e96787b6a36c8881194}
+      \strng{authornamehash}{1d9ab3ed52b71e96787b6a36c8881194}
+      \strng{authorfullhash}{1d9ab3ed52b71e96787b6a36c8881194}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Decoding tornadoes' infrasound waves}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://phys.org/news/2018-05-decoding-tornadoes-infrasound.html
+      \endverb
+      \verb{url}
+      \verb https://phys.org/news/2018-05-decoding-tornadoes-infrasound.html
+      \endverb
+    \endentry
+    \entry{wiki}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9c4f7fca1822667ca0ff646e1c0a381b}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod},
+           given={The\bibnamedelimb Free\bibnamedelima Encyclopedia},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{fullhash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{bibnamehash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{authorbibnamehash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{authornamehash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{authorfullhash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Infrasound}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Infrasound
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Infrasound
+      \endverb
+    \endentry
+    \entry{theFearFrequency}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b9a2f9d906a2026dc8fd9158a6d385ac}{%
+           family={Schwarz},
+           familyi={S\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b9a2f9d906a2026dc8fd9158a6d385ac}
+      \strng{fullhash}{b9a2f9d906a2026dc8fd9158a6d385ac}
+      \strng{bibnamehash}{b9a2f9d906a2026dc8fd9158a6d385ac}
+      \strng{authorbibnamehash}{b9a2f9d906a2026dc8fd9158a6d385ac}
+      \strng{authornamehash}{b9a2f9d906a2026dc8fd9158a6d385ac}
+      \strng{authorfullhash}{b9a2f9d906a2026dc8fd9158a6d385ac}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Infrasound: The Fear Frequency}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://www.strangerdimensions.com/2013/06/21/infrasound-the-fear-frequency/
+      \endverb
+      \verb{url}
+      \verb https://www.strangerdimensions.com/2013/06/21/infrasound-the-fear-frequency/
+      \endverb
+    \endentry
+    \entry{wiki2}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9c4f7fca1822667ca0ff646e1c0a381b}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod},
+           given={The\bibnamedelimb Free\bibnamedelima Encyclopedia},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{fullhash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{bibnamehash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{authorbibnamehash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{authornamehash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{authorfullhash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Shadow zone}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Shadow_zone
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Shadow_zone
+      \endverb
+    \endentry
+    \entry{wiki3}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9c4f7fca1822667ca0ff646e1c0a381b}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod},
+           given={The\bibnamedelimb Free\bibnamedelima Encyclopedia},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{fullhash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{bibnamehash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{authorbibnamehash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{authornamehash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{authorfullhash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Seismology}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Seismology
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Seismology
+      \endverb
+    \endentry
+    \entry{quera}{online}{}
+      \name{author}{1}{}{%
+        {{hash=99c12305f138b9dbab1215255ec1f6b0}{%
+           family={Salzberg},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{99c12305f138b9dbab1215255ec1f6b0}
+      \strng{fullhash}{99c12305f138b9dbab1215255ec1f6b0}
+      \strng{bibnamehash}{99c12305f138b9dbab1215255ec1f6b0}
+      \strng{authorbibnamehash}{99c12305f138b9dbab1215255ec1f6b0}
+      \strng{authornamehash}{99c12305f138b9dbab1215255ec1f6b0}
+      \strng{authorfullhash}{99c12305f138b9dbab1215255ec1f6b0}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Why do we not use the infrasonic sound in sonar?}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.quora.com/Why-do-we-not-use-the-infrasonic-sound-in-sonar
+      \endverb
+      \verb{url}
+      \verb https://www.quora.com/Why-do-we-not-use-the-infrasonic-sound-in-sonar
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
