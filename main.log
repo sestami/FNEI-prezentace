@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/Arch Linux) (preloaded format=xelatex 2018.9.13)  3 DEC 2018 00:08
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/Arch Linux) (preloaded format=xelatex 2018.9.13)  3 DEC 2018 22:18
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -1799,24 +1799,24 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1854,7 +1854,7 @@ LaTeX Font Info:    ... okay on input line 39.
 
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box83
-Package hyperref Info: Link coloring OFF on input line 39.
+Package hyperref Info: Link coloring OFF on input line 40.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1864,76 +1864,76 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count480
 )
-LaTeX Info: Redefining \ref on input line 39.
-LaTeX Info: Redefining \pageref on input line 39.
-LaTeX Info: Redefining \nameref on input line 39.
+LaTeX Info: Redefining \ref on input line 40.
+LaTeX Info: Redefining \pageref on input line 40.
+LaTeX Info: Redefining \nameref on input line 40.
  (./main.out)
 (./main.out)
 \@outlinefile=\write7
 \openout7 = `main.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 39.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 40.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 39.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 40.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmss/m/n --> OT1/FiraSansLight(0)/m/n on input line
- 39.
+ 40.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmss/bx/n --> OT1/FiraSansLight(0)/bx/n on input li
-ne 39.
+ne 40.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/FiraSansLight(0)/m/n --> TU/lmr/m/n on input line 3
-9.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 39.
+(Font)                  OT1/FiraSansLight(0)/m/n --> TU/lmr/m/n on input line 4
+0.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/lmr/bx/n --> TU/FiraSansLight(0)/bx/n on input line
- 39.
+ 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
 (Font)                  OT1/lmr/bx/n --> TU/FiraSansLight(0)/bx/n on input line
- 39.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 39.
+ 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/lmss/m/n --> TU/FiraSansLight(0)/m/n on input line 
-39.
+40.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/lmss/bx/n --> TU/FiraSansLight(0)/m/n on input line
- 39.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 39.
+ 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/lmr/m/it --> TU/FiraSansLight(0)/m/it on input line
- 39.
+ 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/lmr/bx/it --> TU/FiraSansLight(0)/m/it on input lin
-e 39.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 39.
+e 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> TU/FiraMono(0)/m/n on input line 39.
+(Font)                  OT1/lmtt/m/n --> TU/FiraMono(0)/m/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> TU/FiraMono(0)/m/n on input line 39.
+(Font)                  OT1/lmtt/m/n --> TU/FiraMono(0)/m/n on input line 40.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
 (Font)                  TU/FiraSansLight(0)/m/n --> TU/FiraSansLight(0)/bx/n on
- input line 39.
+ input line 40.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  TU/FiraSansLight(0)/m/it --> TU/FiraSansLight(0)/bx/it 
-on input line 39.
+on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
 (Font)                  OT1/FiraSansLight(0)/bx/n --> TU/lmr/bx/n on input line
- 39.
+ 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
 (Font)                  TU/FiraSansLight(0)/bx/n --> TU/FiraSansLight(0)/bx/n o
-n input line 39.
+n input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  TU/FiraSansLight(0)/m/n --> TU/FiraSansLight(0)/bx/n on
- input line 39.
+ input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  TU/FiraSansLight(0)/m/it --> TU/FiraSansLight(0)/bx/it 
-on input line 39.
+on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  TU/FiraMono(0)/m/n --> TU/FiraMono(0)/bx/n on input lin
-e 39.
+e 40.
 
 (/usr/share/texmf-dist/tex/latex/translator/translator-basic-dictionary-English
 .dict
@@ -1959,7 +1959,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 sh.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \microtypecontext on input line 39.
+LaTeX Info: Redefining \microtypecontext on input line 40.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1984,16 +1984,16 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 
 (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 39.
-Package biblatex Info: Reference segment=0 on input line 39.
+Package biblatex Info: Reference section=0 on input line 40.
+Package biblatex Info: Reference segment=0 on input line 40.
  (./main.nav)
 LaTeX Font Info:    Try loading font information for OT1+FiraSansLight(0) on in
-put line 39.
-LaTeX Font Info:    No file OT1FiraSansLight(0).fd. on input line 39.
+put line 40.
+LaTeX Font Info:    No file OT1FiraSansLight(0).fd. on input line 40.
 
 
 LaTeX Font Warning: Font shape `OT1/FiraSansLight(0)/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 39.
+(Font)              using `OT1/cmr/m/n' instead on input line 40.
 
 (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
@@ -2003,30 +2003,30 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FiraSansLight' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 39.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 40.
 
 (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 39.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 40.
 
 
 (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 39.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 40.
 
 
 (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 39.
+(Font)              <10> on input line 40.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 39.
+(Font)              <7> on input line 40.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 39.
-LaTeX Font Info:    Try loading font information for U+msa on input line 39.
+(Font)              <5> on input line 40.
+LaTeX Font Info:    Try loading font information for U+msa on input line 40.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -2034,7 +2034,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 39.
+LaTeX Font Info:    Try loading font information for U+msb on input line 40.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -2047,7 +2047,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \vbox (13.79993pt too high) detected at line 44
+Overfull \vbox (13.79993pt too high) detected at line 45
  []
 
 [1
@@ -2086,45 +2086,108 @@ Overfull \vbox (13.79993pt too high) detected at line 44
 . Italic/OT:script=latn;language=DFLT;+tnum;+smcp;mapping=tex-text;"
 .................................................
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 95.
+(Font)              <8> on input line 99.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 95.
- [5
+(Font)              <6> on input line 99.
+
+Overfull \vbox (4.5134pt too high) detected at line 99
+ []
+
+[5
 
 ] [6
-
-] [7
 
 ]
 File: wave_path.png Graphic file (type bmp)
 <wave_path.png>
 File: shadow_zone.png Graphic file (type bmp)
 <shadow_zone.png>
- [8
+ [7
+
+] [8
 
 ] [9
 
 ] [10
 
-] [11
-
 ]
-File: tornado.png Graphic file (type bmp)
-<tornado.png>
- [12
+File: volcano.jpg Graphic file (type bmp)
+<volcano.jpg>
+File: volcano.png Graphic file (type bmp)
+<volcano.png>
+
+Overfull \hbox (22.25723pt too wide) in paragraph at lines 159--159
+ [] 
+ []
+
+[11
+
+] [12
 
 ] [13
 
 ]
-Overfull \hbox (62.86858pt too wide) in paragraph at lines 160--160
+File: volcano_monitoring.jpg Graphic file (type bmp)
+<volcano_monitoring.jpg>
+
+Overfull \vbox (33.72395pt too high) detected at line 177
+ []
+
+[14
+
+]
+File: tornado.png Graphic file (type bmp)
+<tornado.png>
+ [15
+
+] [16
+
+] [17
+
+]
+Overfull \hbox (62.86858pt too wide) in paragraph at lines 207--207
 []\TU/FiraSansLight(0)/m/n/8 Read more at: []$[][][][][] [] [] [] [][][][] [] [
 ][][] [] [][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][] []
  []
 
-[14
+[18
 
-] [15
+]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 222.
+ [19
+
+] [20
+
+]
+File: array.jpg Graphic file (type bmp)
+<array.jpg>
+
+Overfull \vbox (10.36095pt too high) detected at line 235
+ []
+
+[21
+
+]
+File: array2.jpg Graphic file (type bmp)
+<array2.jpg>
+
+Overfull \vbox (7.0743pt too high) detected at line 243
+ []
+
+[22
+
+] [23
+
+]
+File: signal.jpg Graphic file (type bmp)
+<signal.jpg>
+
+Overfull \vbox (14.15088pt too high) detected at line 257
+ []
+
+[24
 
 ]
 File: beamericonarticle.pdf Graphic file (type pdf)
@@ -2182,7 +2245,46 @@ File: beamericonarticle.pdf Graphic file (type pdf)
 Package biblatex Warning: '\mkdaterangeedtf' is deprecated.
 (biblatex)                Please use '\mkdaterangeiso'.
 
-[16
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+
+Package biblatex Warning: '\mkdaterangeedtf' is deprecated.
+(biblatex)                Please use '\mkdaterangeiso'.
+
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+
+Package biblatex Warning: '\mkdaterangeedtf' is deprecated.
+(biblatex)                Please use '\mkdaterangeiso'.
+
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+
+Package biblatex Warning: '\mkdaterangeedtf' is deprecated.
+(biblatex)                Please use '\mkdaterangeiso'.
+
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+
+Package biblatex Warning: '\mkdaterangeedtf' is deprecated.
+(biblatex)                Please use '\mkdaterangeiso'.
+
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+
+Package biblatex Warning: '\mkdaterangeedtf' is deprecated.
+(biblatex)                Please use '\mkdaterangeiso'.
+
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+
+Package biblatex Warning: '\mkdaterangeedtf' is deprecated.
+(biblatex)                Please use '\mkdaterangeiso'.
+
+[25
+
+] [26
+
 
 ]
 \tf@nav=\write8
@@ -2194,11 +2296,11 @@ Package biblatex Warning: '\mkdaterangeedtf' is deprecated.
 \tf@snm=\write10
 \openout10 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 178.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 178.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 271.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 271.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 178.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 178.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 271.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 271.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: FAD94194CF60C85FEE87612594B85C9C.
 
@@ -2210,12 +2312,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 45903 strings out of 492962
- 929316 string characters out of 6139097
- 1381355 words of memory out of 5000000
- 49186 multiletter control sequences out of 15000+600000
- 542024 words of font info for 95 fonts, out of 8000000 for 9000
+ 46024 strings out of 492962
+ 932314 string characters out of 6139097
+ 1385854 words of memory out of 5000000
+ 49297 multiletter control sequences out of 15000+600000
+ 543406 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 71i,15n,96p,1872b,6025s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,15n,96p,1872b,6050s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (16 pages).
+Output written on main.pdf (26 pages).

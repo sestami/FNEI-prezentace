@@ -1991,9 +1991,19 @@
   <bcf:section number="0">
     <bcf:citekey order="1">britannica</bcf:citekey>
     <bcf:citekey order="2">britannica</bcf:citekey>
-    <bcf:citekey order="3">weather</bcf:citekey>
-    <bcf:citekey order="3">tornado</bcf:citekey>
-    <bcf:citekey order="3">tornado2</bcf:citekey>
+    <bcf:citekey order="3">volcano2</bcf:citekey>
+    <bcf:citekey order="4">volcano2</bcf:citekey>
+    <bcf:citekey order="5">volcano2</bcf:citekey>
+    <bcf:citekey order="6">volcano2</bcf:citekey>
+    <bcf:citekey order="7">stratosfera</bcf:citekey>
+    <bcf:citekey order="8">tornado2</bcf:citekey>
+    <bcf:citekey order="9">wiki4</bcf:citekey>
+    <bcf:citekey order="10">volcano2</bcf:citekey>
+    <bcf:citekey order="11">volcano2</bcf:citekey>
+    <bcf:citekey order="12">gronsko</bcf:citekey>
+    <bcf:citekey order="13">gronsko</bcf:citekey>
+    <bcf:citekey order="14">volcano2</bcf:citekey>
+    <bcf:citekey order="15">volcano2</bcf:citekey>
     <bcf:citekey order="0">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
