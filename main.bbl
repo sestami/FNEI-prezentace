@@ -409,16 +409,18 @@
     \endentry
     \entry{microphones2}{online}{}
       \name{author}{1}{}{%
-        {{hash=7ad38a2425d1cb8ec90f5a6e8b36fc8c}{%
-           family={Gras},
-           familyi={G\bibinitperiod}}}%
+        {{hash=474e5cd44616d31cd2aa5c3c4b24c8b3}{%
+           family={Shake},
+           familyi={S\bibinitperiod},
+           given={Raspberry},
+           giveni={R\bibinitperiod}}}%
       }
-      \strng{namehash}{7ad38a2425d1cb8ec90f5a6e8b36fc8c}
-      \strng{fullhash}{7ad38a2425d1cb8ec90f5a6e8b36fc8c}
-      \strng{bibnamehash}{7ad38a2425d1cb8ec90f5a6e8b36fc8c}
-      \strng{authorbibnamehash}{7ad38a2425d1cb8ec90f5a6e8b36fc8c}
-      \strng{authornamehash}{7ad38a2425d1cb8ec90f5a6e8b36fc8c}
-      \strng{authorfullhash}{7ad38a2425d1cb8ec90f5a6e8b36fc8c}
+      \strng{namehash}{474e5cd44616d31cd2aa5c3c4b24c8b3}
+      \strng{fullhash}{474e5cd44616d31cd2aa5c3c4b24c8b3}
+      \strng{bibnamehash}{474e5cd44616d31cd2aa5c3c4b24c8b3}
+      \strng{authorbibnamehash}{474e5cd44616d31cd2aa5c3c4b24c8b3}
+      \strng{authornamehash}{474e5cd44616d31cd2aa5c3c4b24c8b3}
+      \strng{authorfullhash}{474e5cd44616d31cd2aa5c3c4b24c8b3}
       \field{sortinit}{2}
       \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
@@ -431,6 +433,97 @@
       \endverb
       \verb{url}
       \verb https://manual.raspberryshake.org/boom.html
+      \endverb
+    \endentry
+    \entry{MURAYAMA201535}{article}{}
+      \name{author}{6}{}{%
+        {{hash=08221caa13ff270f2fc582ca2be222db}{%
+           family={Murayama},
+           familyi={M\bibinitperiod},
+           given={Takahiko},
+           giveni={T\bibinitperiod}}}%
+        {{hash=5970c731366f7bf90b3017ec66691693}{%
+           family={Kanao},
+           familyi={K\bibinitperiod},
+           given={Masaki},
+           giveni={M\bibinitperiod}}}%
+        {{hash=aa0d9a47a09b715dad12b0fc3eb79d94}{%
+           family={Yamamoto},
+           familyi={Y\bibinitperiod},
+           given={Masa-Yuki},
+           giveni={M\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=20864cca5ae14f3956653a02eef33498}{%
+           family={Ishihara},
+           familyi={I\bibinitperiod},
+           given={Yoshiaki},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=22e54203a7a10397e62e351dc06f8ac9}{%
+           family={Matsushima},
+           familyi={M\bibinitperiod},
+           given={Takeshi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0ae3816929958d57de9666617c2b20da}{%
+           family={Kakinami},
+           familyi={K\bibinitperiod},
+           given={Yoshihiro},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{89213cce9b8dda957dc711a021f6b17a}
+      \strng{fullhash}{89213cce9b8dda957dc711a021f6b17a}
+      \strng{bibnamehash}{89213cce9b8dda957dc711a021f6b17a}
+      \strng{authorbibnamehash}{89213cce9b8dda957dc711a021f6b17a}
+      \strng{authornamehash}{89213cce9b8dda957dc711a021f6b17a}
+      \strng{authorfullhash}{89213cce9b8dda957dc711a021f6b17a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1873-9652}
+      \field{journaltitle}{Polar Science}
+      \field{note}{Recent Advance in Polar Seismology: Global Impact of the International Polar Year}
+      \field{number}{1}
+      \field{title}{Infrasound array observations in the Lützow-Holm Bay region, East Antarctica}
+      \field{volume}{9}
+      \field{year}{2015}
+      \field{pages}{35\bibrangedash 50}
+      \range{pages}{16}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.polar.2014.07.005
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S1873965214000528
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1873965214000528
+      \endverb
+      \keyw{Infrasound,Array observations,Lützow-Holm Bay,East Antarctica,Microbaroms,Surface environment}
+    \endentry
+    \entry{wiki5}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9c4f7fca1822667ca0ff646e1c0a381b}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod},
+           given={The\bibnamedelimb Free\bibnamedelima Encyclopedia},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{fullhash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{bibnamehash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{authorbibnamehash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{authornamehash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \strng{authorfullhash}{9c4f7fca1822667ca0ff646e1c0a381b}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ballistocardiography}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Ballistocardiography
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Ballistocardiography
       \endverb
     \endentry
   \enddatalist

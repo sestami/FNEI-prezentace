@@ -1,6 +1,6 @@
 %\documentclass[10pt, frame]{beamer}
-%\documentclass[10pt, notes=only]{beamer}
-\documentclass[10pt, notes]{beamer}
+\documentclass[10pt, notes=only]{beamer}
+%\documentclass[10pt, notes]{beamer}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
@@ -28,7 +28,7 @@
 ]{biblatex}
 \addbibresource{citace.bib}
 
-\usetheme[sectionpage=none, numbering=fraction, progressbar= head, block=fill]{metropolis}
+\usetheme[sectionpage=none, numbering=fraction, progressbar=none, block=fill]{metropolis}
 \setbeamerfont{note page}{size=\footnotesize}
 \author{Michal Šesták}
 \title{Infrazvuk}
@@ -50,10 +50,11 @@
 
 \begin{frame}
     \begin{itemize}
-        \item $f< \SI{20}{Hz}$ 
+        \item $\SI{3,21}{mHz}\ (\SI{15}{\celsius})<f< \text{cca}\ \SI{20}{Hz}$ 
+        \item $v=\text{cca}\ \SI{340}{m/s}$ u mořské hladiny
         \item \textbf{Zdroje} zemětřesení, dopadající meteority, sopky, vodopády, velké vlny, počasí, zvířata, jaderné exploze, vibrující trubky \dots
         \item \textbf{Vnímání člověkem} tlak v uších i jinde (záleží na intenzitě zvuku), bolesti hlavy, nevolnosti, noční děsy, poruchy spánku, závratě 
-        \item \textbf{Využití} monitorování přírodních katastrof; lokalizování ropy a plynu; předpovídání počasí; studium srdce (Balistokardiografie a Seismokardiografie)
+        \item \textbf{Využití} monitorování přírodních katastrof; lokalizování ropy a plynu; předpovídání počasí; studium srdce (Balistokardiografie)
         \item \textbf{Kde se je nevyplatí používat} sonar
     \end{itemize}
 \end{frame}
@@ -66,7 +67,10 @@
 \item \textbf{duchové} If infrasound hits at just the right strength and frequency, it can resonate with human eyes, causing them to vibrate. This can lead to distorted vision and the possibility of “ghost” sightings. Or, at least, what some would call ghost sightings. Infrasound may also cause a person to “feel” that there’s an entity in the room with him or her, accompanied by that aforementioned sense of dread.
 }
 \note[itemize]{
-\item \textbf{ropa atd} Distinctive rock formations in which these minerals are likely to be found can be identified by sonic ranging, primarily at infrasonic frequencies. With an array of seismic detectors, a computational form of holography may be achieved.
+\item \textbf{ropa atd.} Distinctive rock formations in which these minerals are likely to be found can be identified by sonic ranging, primarily at infrasonic frequencies. With an array of seismic detectors, a computational form of holography may be achieved.
+\item \textbf{Balistokardiografie} je neinvazivní metoda pro měření ``balistických'' sil srdce, síly srdce pumpovat krev; studuje pohyby těla vznikajících z ejektování krve ze srdce do velkých tepen; normální frekvence pohybů srdce mezi 1 a 20 Hz; bylo zjištěno, že efekty hlavních srdečních chorob mohou být identifikovány pomocí této metody \cite{wiki5}; v současnosti se však používá kamera; je to pojmenované po balistě
+\item the ballistocardiogram (BCG) is a measurement of the recoil forces of the body in reaction to cardiac ejection of blood into the vasculature, while the seismocardiogram (SCG) represents the local vibrations of the chest wall in response to the heartbeat
+\item \textbf{Seismokardiografie} využívá infrasonických frekvencí, ale NEJEDNÁ se o infrazvuk! (to samé pravděpodobně u ballistokardiografie)
 }
 
 \begin{frame}{Frequency range of hearing for humans and other selected animals}
@@ -114,7 +118,7 @@ seals and sea lions 	&200 	&55 000 \\
             \begin{itemize}
                 \item Cca 30 \% uvolněné energie při zemětřesení na seismické vlny
                 \item P-vlny, S-vlny, povrchové vlny (destruktivní)
-                \item Varovné systémy využívají P-vln
+                \item Varovné systémy využívají hlavně P-vln
             \end{itemize}
             \begin{figure}[h]
                 \includegraphics[width=.65\textwidth]{wave_path.png}
@@ -142,6 +146,17 @@ When P-waves propagating from the epicentre of an earthquake reach the surface o
 
 Infrasonic disturbances of the atmosphere that may extend to 50 km (30 miles) above Earth’s surface are often associated with severe earthquakes. These waves can travel considerable distances around the globe.}
 
+\begin{frame}{Infrazvuk vs seizmické vlny}
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=.7\textwidth]{infrasound_vs_seismic.jpg}
+    \end{figure}
+\end{frame}
+
+\note{
+    \textbf{Fig.} Schematic diagram of the characteristics of infrasound waves propagating in the atmosphere. The “infrasound” is defined as sub-audible sounds, as the pressure waves with frequencies ranging from cut-off frequency of sound (3.21 mHz, for a 15 °C isothermal atmosphere) to the lowest frequency of human audible band (20 Hz). Infrasound waves propagate more than few 1000 km along the Earth's surface.
+}
+
 \begin{frame}{Monitorování erupcí sopek}
     \begin{columns}
         \begin{column}{.5\textwidth}
@@ -159,7 +174,7 @@ Infrasonic disturbances of the atmosphere that may extend to 50 km (30 miles) ab
 \end{frame}
 
 \note[itemize]{
-\item "What's nice about infrasound is that we are able to gather information farther from the source than with traditional ground-based monitoring methods," Matoza explained. "Typically, seismic signals from eruptions don't propagate more than a few hundred kilometers from the source. With Calbuco, for example, you can see the eruption very clearly on the local monitoring stations and out to about 250 kilometers on regional seismic networks, but with infrasound, the signal propagates in the atmosphere for more than 5,000 kilometers. What's more, infrasound delivers different information than seismic data alone."
+\item "What's nice about infrasound is that we are able to gather information farther from the source than with traditional ground-based monitoring methods," Matoza explained. "Typically, seismic signals from eruptions don't propagate more than a few hundred kilometers from the source. With Calbuco, for example, you can see the eruption very clearly on the local monitoring stations and out to about 250 kilometers on regional seismic networks, but with infrasound, the signal propagates \textbf{in the atmosphere for more than 5 000 kilometers}. What's more, infrasound delivers different information than seismic data alone."
 \item nejlepší je vždy kombinovat několik metod
 }
 
@@ -223,7 +238,7 @@ Read more at: \url{https://phys.org/news/2018-03-inaudible-infrasound-weather-cl
 
 \note[itemize]{
 \item Comprehensive Nuclear-Test-Ban Treaty (CTBT) -> stanice po celém světě; tam ty detektory nazývají mikrobarometry
-\item Multiple types of infrasound sensors exist and are divided into two categories: absolute and differential pressure sensors. Absolute sensors record very small changes in \emph{background atmospheric pressure}, while differential sensors output small changes in pressure \emph{relative to a reference pressure}. After the pressure wave is recorded, it is digitized by attached electronics and transmitted to AVO via radio, Internet, or satellite communications (similar to a seismic station). AVO often deploys infrasound microphones in groups, called arrays, and uses the relative arrival times of acoustic waves on each sensor to determine where the sound is coming from 
+\item Multiple types of infrasound sensors exist and are divided into two categories: absolute and differential pressure sensors. \textbf{Absolute} sensors record very small changes in \textbf{background atmospheric pressure}, while \textbf{differential} sensors output small changes in pressure \textbf{relative to a reference pressure}. After the pressure wave is recorded, it is digitized by attached electronics and transmitted to AVO via radio, Internet, or satellite communications (similar to a seismic station). AVO often deploys infrasound microphones in groups, called arrays, and uses the relative arrival times of acoustic waves on each sensor to determine where the sound is coming from 
 }
 
 \begin{frame}{Infrasound array}
@@ -258,10 +273,10 @@ More broadly, the range of sounds IS18 can detect doesn’t only include mankind
 
 
 % různá nastavení
-%\metroset{sectionpage=simple,none}
 %\begin{overlayarea}{\textwidth}{\textheight}\end{overlayarea}
 
 
+\appendix
 \begin{frame}[allowframebreaks]{Reference}
     \nocite{*}
 \renewcommand*{\bibfont}{\tiny}
